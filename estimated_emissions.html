@@ -102,11 +102,30 @@
 
 		info.addTo(map);
 
+		
+var s = feature.properties['NDCs_details_calculated_with_avg_figures_Target Average Annual Change Min'];
+var avg_emissions = s.match([-0-9.]+)
+console.log(avg_emissions);		
 
 		function getColor(d) {
-		return d === "BAU" ? '#eeba0d' :
-		      d === "Historical" ? "#3f20ca" :
-		      d === "Other" ? "#db10e5" :
+		return d > 0 ? '#db0424' :
+		       d > 1 ? '#a8011a' :
+		       d < 0 ? '#1d6ef2' :
+		       d < 1 ? '#1558c4' :
+// 		       d > 4 ? '#eeba0d' :
+// 		       d > 5 ? '#eeba0d' :
+// 		       d > 6 ? '#eeba0d' :
+// 		       d > 0 ? '#eeba0d' :
+// 		       d > 0 ? '#eeba0d' :
+// 		       d > 0 ? '#eeba0d' :
+// 		       d > 0 ? '#eeba0d' :
+// 		       d > 0 ? '#eeba0d' :
+// 		       d > 0 ? '#eeba0d' :
+// 		       d > 0 ? '#eeba0d' :
+// 		       d > 0 ? '#eeba0d' :
+// 		       d > 0 ? '#eeba0d' :
+// 		       d > 0 ? '#eeba0d' :
+		
 		      "#a0a0a0";
 		}
 
@@ -117,7 +136,7 @@
 				color: 'white',
 				dashArray: '1',
 				fillOpacity: 0.6,
-				fillColor: getColor(feature.properties['NDCs_NDC Type'])
+				fillColor: getColor(avg_emissions)
 			};
 		}
 
