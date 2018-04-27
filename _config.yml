@@ -29,7 +29,7 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Eric Toole
   rss                       : true # generate RSS feed and show it's icon in header
   mail                      : your@email.com # change to your e-mail address
   twitter                   : twitter-user-name
