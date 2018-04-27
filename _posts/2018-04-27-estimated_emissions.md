@@ -2,8 +2,6 @@
 layout: post
 title:  "Target Annual Emissions Change"
 tags:
-  - jekyll
-  - dactl
 hero: https://source.unsplash.com/collection/145103/
 overlay: green
 published: true
