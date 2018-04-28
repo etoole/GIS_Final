@@ -2,7 +2,7 @@
 layout: post
 title: 'Emissions Reduction Commitments by Type'
 tags:
-hero: https://upload.wikimedia.org/wikipedia/commons/a/a4/Air_pollution_by_industrial_chimneys.jpg
+hero: https://upload.wikimedia.org/wikipedia/commons/6/62/Smoke_of_chimneys_is_the_breath_of_Soviet_Russia.jpg
 overlay: blue
 published: true
 ---
