@@ -7,4 +7,4 @@ overlay: blue
 published: true
 ---
 
-This <font color='#4286f4'>[map](https://etoole.github.io/GIS_Final/commitment_type)</font> shows the different categories of commitments made by every nation.
+This [<font color='#4286f4'>map</font>](https://etoole.github.io/GIS_Final/commitment_type) shows the different categories of commitments made by every nation.
