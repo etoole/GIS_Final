@@ -2,7 +2,7 @@
 layout: post
 title:  "Target Annual Emissions Change"
 tags:
-hero: https://github.com/etoole/GIS_Final/tree/master/assets/img/cop21_logo.jpg
+hero: https://etoole.github.io/GIS_Final/tree/master/assets/img/cop21_logo.jpg
 overlay: green
 published: true
 ---
