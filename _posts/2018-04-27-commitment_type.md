@@ -7,4 +7,4 @@ overlay: blue
 published: true
 ---
 
-This map shows the different categories of commitments made by every nation.
+This [map](https://etoole.github.io/GIS_Final/commitment_type) shows the different categories of commitments made by every nation.
