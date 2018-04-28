@@ -8,7 +8,8 @@ published: true
 ---
 In order to meaningfully compare dissimilar commitments, the target emissions were extrapolated from Business as Usual projections and the compounded annual change in emissions was compared blahblahblah.....
 
-<link rel="stylesheet" type="text/css" href="chrome-extension://oonhlodhpiagekajjhhfimfgeagjnnop/css/storify-common.css"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!DOCTYPE html>
+<html><link rel="stylesheet" type="text/css" href="chrome-extension://oonhlodhpiagekajjhhfimfgeagjnnop/css/storify-common.css"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Paris Climate Accords (2015) - Projected Annual Emissions Change</title>
 	<meta charset="utf-8">
 
@@ -264,3 +265,4 @@ In order to meaningfully compare dissimilar commitments, the target emissions we
 	</script>
 
 </body>
+</html>
