@@ -31,14 +31,14 @@ blog:
 author:
   fullname                  : Eric Toole
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
+  mail                      : erictoole@gmail.com # change to your e-mail address
+  twitter                   : @tooleric2
+  github                    : etoole
   youtube                   : youtube-user-name
   stackoverflow             : stackoverflow-user-name
   disqus                    : dactl # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
-  photo                     : "uploads/me2.png"
+  photo                     : "assets/img/Eric_youngProfessional.jpg"
   photo2x                   : "uploads/me.png"
 
 
