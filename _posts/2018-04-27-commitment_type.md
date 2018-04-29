@@ -20,7 +20,7 @@ On the whole, commiting to reductions relative to a fictitious baseline widens t
 ```python
 (((target emissions / ndc year emissions)^(1 / years between ndc and target) = annual change to target) - 1) * 100 = annual %change
 
-(((21.55 MTco2 / 18.2 MTco2 = 1.18406593407)^(0.1 = 1 / (10 = 2025 - 2015) = 1.01703895711) - 1) * 100 = +1.70%/year
+(((21.55 MTco2 / 18.2 MTco2)^(1 / (2025 - 2015)) - 1) * 100 = +1.70%/year
 ```
 
 Given more time, a method that better accounts for anomolous factors would have been developed. For example, all members of the Former Soviet Union (FSU) experienced an abrupt reduction of emissions accompanying the economic contraction that followed the collapse of the Soviet Union. FSU states that opted for a BAU-type commitment (Georgia, Kyrgyzstan & Uzbekistan) could potentially have artificially low projections because of a rapid reduction trend which ceased two decades ago. Countries that have recently experienced rapid economic growth would also exhibit emissions trend volatility which would not be adequately captured by my method. The same could also be said for countries that experienced a period of turmoil that resulted in a temporary emissions slump.
