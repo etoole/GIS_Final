@@ -7,11 +7,7 @@ url                          : "https://etoole.github.io" # the base hostname & 
 blog:
   title                      : Paris Accord Commitments
   description                  : >
-                              At the conclusion of the UNFCCC's 21st Conference of Parties (COP) on December 12th, 2015, member nations were instructed to submit
-                              a report detailing their emission reduction commitments. These Nationally Determined Comittments (NDC's) varied greatly
-                              in the metrics used and were often strategically vague regarding their actual target emissions. The following maps are intended
-                              to aid concerned members of the public in obtaining more information about each nation's proposed emissions reduction.
-
+  
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
   search_path                : # "yourgitusername.github.io"
