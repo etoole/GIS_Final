@@ -23,6 +23,8 @@ On the whole, commiting to reductions relative to a fictitious baseline widens t
 (((21.55 MTco2 / 18.2 MTco2)^(1 / (2025 - 2015)) - 1) * 100 = +1.70%/year
 ```
 
+
+
 Given more time, a method that better accounts for anomolous factors would have been developed. For example, all members of the Former Soviet Union (FSU) experienced an abrupt reduction of emissions accompanying the economic contraction that followed the collapse of the Soviet Union. FSU states that opted for a BAU-type commitment (Georgia, Kyrgyzstan & Uzbekistan) could potentially have artificially low projections because of a rapid reduction trend which ceased two decades ago. Countries that have recently experienced rapid economic growth would also exhibit emissions trend volatility which would not be adequately captured by my method. The same could also be said for countries that experienced a period of turmoil that resulted in a temporary emissions slump.
 
 Finally, members of the "Other" group focused on reforms that indirectly impacted greenhouse gas emissions rather than establishing a concrete emissions target. Many of the countries that fell into this third group were least developed nations with some of the lowest carbon intensive economies (co2/GDP/capita) and few resources to allocate towards government initiatives. These countries tended to favor low-cost initiatives such as reforestation, adopting new land use policies, and household-scale solar electrification in rural areas. 
